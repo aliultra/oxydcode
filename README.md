@@ -19,8 +19,8 @@ Change your IP address to Honduras (use: HmaVPN, NordVPN, ExpressVPN)
 4. Install requests library `pip install requests`
 5. Install pyperclip library `pip install pyperclip`
 6. Clone the script `git clone https://github.com/aliultra/oxydcode`
-7. Open script `cd spotify-account-creator`
-8. Run script `python3 spotify_account_creator.py`
+7. Open script `cd oxydcode`
+8. Run script `python spotify_account_creator.py`
 
 -------------------------
 
@@ -40,5 +40,5 @@ Change your IP address to Honduras (use: HmaVPN, NordVPN, ExpressVPN)
 4. کتابخانه ریکوئست را نصب کنید `pip install requests`
 5. کتابخانه کلیپ بورد را نصب کنید `pip install pyperclip`
 6. اسکریپت را دریافت نمایید `git clone https://github.com/aliultra/oxydcode`
-7. وارد اسکریپت شوید `cd spotify-account-creator`
-8. اسکریپت را اجرا نمایید `python3 spotify_account_creator.py`
+7. وارد اسکریپت شوید `cd oxydcode`
+8. اسکریپت را اجرا نمایید `python spotify_account_creator.py`
